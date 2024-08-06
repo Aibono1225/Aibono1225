@@ -1,12 +1,10 @@
 ### Hi there 👋
 
-- 🌱 I work at [SSW](https://www.ssw.com.au/)
+- 👩‍💻 I work at [SSW](https://www.ssw.com.au/)
 
-- 💻 I am learning .NET, DB and Azure recently
+- 🌱 I am learning .NET, DB and Azure recently
 
 - 💬 Ask me about Javascript, React, Vue, Scrum
-
-- 🔭 I work at [SSW](https://www.ssw.com.au/people/chloe-lin)
 
 - 📫 How to reach me: @Aibono1225
 

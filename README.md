@@ -1,13 +1,16 @@
 ### Hi there 👋
 
-- 🌱 I am experienced in React and Vue
+- 🌱 I work at [SSW](https://www.ssw.com.au/)
 
-- 💻 I am learning .NET and Angular recently.
+- 💻 I am learning .NET, DB and Azure recently.
 
-- 💬 Ask me about React and Vue
+- 💬 Ask me about Javascript, React, Vue, Scrum.
 
-- 🔭 I work at SSW https://www.ssw.com.au/people/chloe-lin
+- 🔭 I work at [SSW](https://www.ssw.com.au/people/chloe-lin)
 
 - 📫 How to reach me: @Aibono1225
 
-- ⚡ Fun fact: I once wanted to clean my phone, so I gave it a bath, and then the audio broke down
+- ⚡ Fun fact: I once gave my phone a "phone shower"
+
+
+[![Chloe's github stats](https://github-readme-stats.vercel.app/api?username=Aibono1225&theme=dark)](https://github.com/{{USERNAME}}/github-readme-stats)

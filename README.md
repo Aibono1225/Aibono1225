@@ -1,14 +1,16 @@
-### Hi there 👋
+### Hi there, I'm Chloe 👋
 
-- 👩‍💻 I work at [SSW](https://www.ssw.com.au/)
+- 👩‍💻 I'm a Software Engineer at [SSW](https://www.ssw.com.au/)
 
-- 🌱 I am learning .NET, DB and Azure recently
+- 🌍 Based in the Strasbourg, France
 
-- 💬 Ask me about Javascript, React, Vue, Scrum
+- 🌱 Currently learning software architecture and Azure
 
-- 📫 How to reach me: @Aibono1225
+- 💬 Ask me about React, Next.js, .NET Core, or 🦙 TinaCMS
 
-- ⚡ Fun fact: I once gave my phone a "phone shower"
+- 📫 Reach me: @Aibono1225
+
+- ⚡ Fun fact: I once gave my phone a "shower" - lesson learned
 
 
 [![Chloe's github stats](https://github-readme-stats.vercel.app/api?username=Aibono1225&theme=dark)](https://github.com/{{USERNAME}}/github-readme-stats)
